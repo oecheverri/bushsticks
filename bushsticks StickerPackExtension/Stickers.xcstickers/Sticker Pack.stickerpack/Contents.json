@@ -1,4 +1,11 @@
 {
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
   "stickers" : [
     {
       "filename" : "bush.sticker"
@@ -58,6 +65,30 @@
       "filename" : "rip.sticker"
     },
     {
+      "filename" : "jswan-wtf.sticker"
+    },
+    {
+      "filename" : "jswan-this-is-making-dumber.sticker"
+    },
+    {
+      "filename" : "jswan-well-actually.sticker"
+    },
+    {
+      "filename" : "jswan-what-are-you-saying.sticker"
+    },
+    {
+      "filename" : "jswan-what-is-this-shit.sticker"
+    },
+    {
+      "filename" : "jswan-you-made-me-shit-myself.sticker"
+    },
+    {
+      "filename" : "jswan-youre-so-fucking-stupid.sticker"
+    },
+    {
+      "filename" : "jswan-omigad.sticker"
+    },
+    {
       "filename" : "ripbush.sticker"
     },
     {
@@ -66,12 +97,5 @@
     {
       "filename" : "constablebush.sticker"
     }
-  ],
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
-  "properties" : {
-    "grid-size" : "regular"
-  }
+  ]
 }
